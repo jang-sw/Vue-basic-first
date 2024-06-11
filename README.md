@@ -1,2 +1,6 @@
 # Vue-basic-first
-vue basic first practice
+Vue 기본 최초 연습
+
+Vue basic first Practice 
+
+Vueのベーシック初練習
