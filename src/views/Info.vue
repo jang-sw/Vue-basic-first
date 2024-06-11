@@ -40,7 +40,7 @@ export default {
 
 <style>
     .room-img{
-        width: 10%;
+        width: 50%;
         margin-top: 40px;
     }
     .black-bg{
